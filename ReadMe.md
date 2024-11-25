@@ -1,6 +1,6 @@
 # Project 5: Auction
 
-### Group Members: Joel Gloetzner, Roshan Subedi, Aayush Kafle, Atah Omar
+### Group Members: Aayush Kafle, Joel Gloetzner, Roshan Subedi, Atah Omar
 
 ## How To Start
 
@@ -18,6 +18,12 @@
 
 ## Tasks
 
+### Aayush Kafle
+
+- Foundations
+- Sockets/Server Stuff
+- Agent,Bank,AuctionHouse
+
 ### Joel Gloetzner
 
 - Foundation building
@@ -29,12 +35,6 @@
 - Foundations
 - Agent,Bank,Auction
 - AgentGUI and supporting classes
-
-### Aayush Kafle
-
-- Foundations
-- Sockets/Server Stuff
-- Agent,Bank,AuctionHouse
 
 ### Atah Omar
 
